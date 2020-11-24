@@ -51,5 +51,19 @@ This document is a brief primer on using go templates.</description>
       <description></description>
     </item>
     
+    <item>
+      <title>Git operations</title>
+      <link>https://cognizance2020.github.io/post/git_operation/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/git_operation/</guid>
+      <description>Basic Operations  the following is a summary of basic git operations:
+ git add  Puts current working files into the stage.
+  git checkout  Replaces the current working files with files from a branch.
+  git checkout -b  Creates a new local branch from the current branch&amp;rsquo;s tip.
+  git clone  Clone an existing repository into a new directory.
+  git commit  Commits staged changes to a local branch.</description>
+    </item>
+    
   </channel>
 </rss>
