@@ -79,18 +79,22 @@ Setup Some fun facts about Hugo:
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cognizance2020.github.io/timeline/</guid>
-      <description>Commencement of tasks - 30-11-2020
-You can start doing your tasks from now
- Git Setup - 02-12-2020
-Complete Git development environment
- Version Control System - 04-12-2020
-Local setup of Version Control System
- Operations on Git - 08-12-2020
-Getting familiar with Git operations like pull, push, commit, merge, rebase, fork etc.,
- Markdown language - 10-12-2020
-Writing professional documents with markdown language
- Presentation skills - 14-12-2020
-Making professional presentation adhere to technical standards</description>
+      <description>###Commencement of tasks
+30-11-2020
+ You can start doing your tasks from now
+  ###Git Setup
+02-12-2020
+ Complete Git development environment
+  #Version Control System
+04-12-2020
+ Local setup of Version Control System
+  ###Operations on Git
+08-12-2020
+ Getting familiar with Git operations like pull, push, commit, merge, rebase, fork etc.,
+  ###Markdown language
+10-12-2020
+ Writing professional documents with markdown language
+  ###Presentation skills</description>
     </item>
     
   </channel>
