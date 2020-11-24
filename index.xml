@@ -80,11 +80,10 @@ Setup Some fun facts about Hugo:
       
       <guid>https://cognizance2020.github.io/post/git_operation/</guid>
       <description>Basic Operations  the following is a summary of basic git operations:
- git add  Puts current working files into the stage.
-  git checkout  Replaces the current working files with files from a branch.
-  git checkout -b  Creates a new local branch from the current branch&amp;rsquo;s tip.
-  git clone  Clone an existing repository into a new directory.
-  git commit  Commits staged changes to a local branch.</description>
+  git add   Puts current working files into the stage.
+   git checkout   Replaces the current working files with files from a branch.
+   git checkout -b   Creates a new local branch from the current branch&amp;rsquo;s tip.
+   git clone   Clone an existing repository into a new directory.</description>
     </item>
     
     <item>
