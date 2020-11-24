@@ -27,12 +27,33 @@
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cognizance2020.github.io/post/git_operation/</guid>
-      <description>Basic Operations  the following is a summary of basic git operations:
+      <description>Basic Operations  The following is a summary of basic git operations:
  git add  Puts current working files into the stage.
   git checkout  Replaces the current working files with files from a branch.
   git checkout -b  Creates a new local branch from the current branch&amp;rsquo;s tip.
   git clone  Clone an existing repository into a new directory.
   git commit  Commits staged changes to a local branch.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Language</title>
+      <link>https://cognizance2020.github.io/post/markdown/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/markdown/</guid>
+      <description>What is Markdown Language?  Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+ How do I use Markdown language?  1.Create a Markdown file using a text editor or a dedicated Markdown application.
+  2.Open the Markdown file in a Markdown application.</description>
+    </item>
+    
+    <item>
+      <title>Pseudo Code</title>
+      <link>https://cognizance2020.github.io/post/pseudo_code/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/pseudo_code/</guid>
+      <description>Pseudo Code Pseudocode is an informal way of programming description that does not require any strict programming language syntax. It is used for creating an outline or a rough draft of a program. The pseudo code will be helpful for creating large modules of Programs.
+An algorithm is a procedure for solving a problem in terms of the actions to be executed and the order in which those actions are to be executed.</description>
     </item>
     
     <item>
