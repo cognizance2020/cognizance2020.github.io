@@ -73,5 +73,14 @@ Setup Some fun facts about Hugo:
       <description></description>
     </item>
     
+    <item>
+      <title>Timeline</title>
+      <link>https://cognizance2020.github.io/timeline/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/timeline/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
