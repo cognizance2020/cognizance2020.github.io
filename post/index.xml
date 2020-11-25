@@ -28,11 +28,17 @@
       
       <guid>https://cognizance2020.github.io/post/git_operation/</guid>
       <description>Basic Operations  The following is a summary of basic git operations:
- git add  Puts current working files into the stage.
-  git checkout  Replaces the current working files with files from a branch.
-  git checkout -b  Creates a new local branch from the current branch&amp;rsquo;s tip.
-  git clone  Clone an existing repository into a new directory.
-  git commit  Commits staged changes to a local branch.</description>
+ git add Puts current working files into the stage.  git checkout Replaces the current working files with files from a branch.  git checkout -b Creates a new local branch from the current branch&#39;s tip.  git clone Clone an existing repository into a new directory.  git commit Commits staged changes to a local branch.</description>
+    </item>
+    
+    <item>
+      <title>HTML and CSS courses</title>
+      <link>https://cognizance2020.github.io/post/html_and_css/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/html_and_css/</guid>
+      <description>HTML and CSS course in Codecademy For the final and last task, You have to complete the Courses in Codecademy HTML and CSS
+These courses will be able to improve your imagination and creative mind. The HTML course is HTML (Hypertext Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.</description>
     </item>
     
     <item>
