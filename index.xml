@@ -63,6 +63,16 @@ An algorithm is a procedure for solving a problem in terms of the actions to be 
     </item>
     
     <item>
+      <title>Self Learning Project</title>
+      <link>https://cognizance2020.github.io/post/self_learning/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/self_learning/</guid>
+      <description>This is a optional project. Participants must create a webpage of your own choice with a effective topic
+The following criteria&amp;rsquo;s must be used:  External and Internal Links. Table. Adding images and embedded videos. Forms. Styling for the paragraphs and headers using CSS. Lists. Background for the webpage. Animations using CSS. Suitable text-to-background contrast Easy-to-read font size. Easily identifiable navigation with clear and brief labels. Consistent styles and colors Text without spelling and grammar errors.</description>
+    </item>
+    
+    <item>
       <title>Timeline</title>
       <link>https://cognizance2020.github.io/timeline/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
@@ -70,12 +80,9 @@ An algorithm is a procedure for solving a problem in terms of the actions to be 
       <guid>https://cognizance2020.github.io/timeline/</guid>
       <description>Commencement of tasks Begins on &amp;gt; 30-11-2020
 You can start doing your tasks from now   Git Setup Deadline &amp;gt; 02-12-2020
- Complete Git development environment
-  Version Control System Deadline &amp;gt; 04-12-2020
- Local setup of Version Control System
-  Operations on Git Deadline &amp;gt; 08-12-2020
- Getting familiar with Git operations like pull, push, commit, merge, rebase, fork etc.,
-  Markdown language Deadline &amp;gt; 10-12-2020</description>
+&amp;gt; Complete Git development environment   Version Control System Deadline &amp;gt; 04-12-2020
+&amp;gt; Local setup of Version Control System   Operations on Git Deadline &amp;gt; 08-12-2020
+&amp;gt; Getting familiar with Git operations like pull, push, commit, merge, rebase, fork etc.,   Markdown language Deadline &amp;gt; 10-12-2020</description>
     </item>
     
   </channel>
