@@ -18,7 +18,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cognizance2020.github.io/post/overview/</guid>
-      <description>Peer support occurs when people provide knowledge, experience, emotional, social or practical help to each other. It commonly refers to an initiative consisting of trained supporters (although it can be provided by peers without training), and can take a number of forms such as peer mentoring, reflective listening (reflecting content and/or feelings), or counseling. Peer support is also used to refer to initiatives where colleagues, members of self-help organizations and others meet, in person or online, as equals to give each other connection and support on a reciprocal basis.</description>
+      <description>Peer learning is a potentially powerful way of sharing knowledge about doing public sector reform. This learning involves individuals exchanging knowledge and experience with each other, and diffusing this learning back to their organisations to ensure an impact—at scale—on reform initiatives. While peer learning entails complex organisational logistics, it avoids the risk of focusing on process rather than product. It recognises that ultimately learning takes place between individuals and it facilitates interpersonal interchanges that are wellmatched and that are based on trust and commitment.</description>
     </item>
     
     <item>
@@ -29,6 +29,15 @@
       <guid>https://cognizance2020.github.io/post/git_operation/</guid>
       <description>Basic Operations  The following is a summary of basic git operations:
  git add Puts current working files into the stage.  git checkout Replaces the current working files with files from a branch.  git checkout -b Creates a new local branch from the current branch&#39;s tip.  git clone Clone an existing repository into a new directory.  git commit Commits staged changes to a local branch.</description>
+    </item>
+    
+    <item>
+      <title>Git Setup</title>
+      <link>https://cognizance2020.github.io/post/git_setup/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/git_setup/</guid>
+      <description>Git simplifies the process of working with other people and makes it easy to collaborate on projects. Team members can work on files and easily merge their changes in with the master branch of the project. GitHub is an open-source repository hosting service, sort of like a cloud for code. It hosts your source code projects in a variety of different programming languages and keeps track of the various changes made to every iteration.</description>
     </item>
     
     <item>
@@ -53,6 +62,15 @@ These courses will be able to improve your imagination and creative mind. The HT
     </item>
     
     <item>
+      <title>Presentation skills</title>
+      <link>https://cognizance2020.github.io/post/presentation/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/presentation/</guid>
+      <description>Presentation skills are a set of abilities that enable an individual to interact with the audience and transfer the messages clearly, engage the audience while presenting and interpret and understand the mindsets of the listeners. These skills will polish and enhance one&amp;rsquo;s persuasive skills. Your ideas are important to you - having the skill and the ability to communicate those ideas in a persuasive fashion means an increased probability that others will support you.</description>
+    </item>
+    
+    <item>
       <title>Pseudo Code</title>
       <link>https://cognizance2020.github.io/post/pseudo_code/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
@@ -60,6 +78,27 @@ These courses will be able to improve your imagination and creative mind. The HT
       <guid>https://cognizance2020.github.io/post/pseudo_code/</guid>
       <description>Pseudo Code Pseudocode is an informal way of programming description that does not require any strict programming language syntax. It is used for creating an outline or a rough draft of a program. The pseudo code will be helpful for creating large modules of Programs.
 An algorithm is a procedure for solving a problem in terms of the actions to be executed and the order in which those actions are to be executed.</description>
+    </item>
+    
+    <item>
+      <title>Self Learning Project</title>
+      <link>https://cognizance2020.github.io/post/self_learning/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/self_learning/</guid>
+      <description>What is Self Learning? Self-learning is anything you learn outside a classroom environment by yourself without a set curriculum or examinations.
+Unlike traditional methods of schooling, your self-learning efforts are not measured by how well you perform in an exam. Self-learning lets you gauge and improve your knowledge via practical applications with no matriculated evaluation. This makes it all about pure learning.
+Why Self learning?  Self-learning helps you develop your problem solving skills.</description>
+    </item>
+    
+    <item>
+      <title>Version Control System</title>
+      <link>https://cognizance2020.github.io/post/version_control_system/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/version_control_system/</guid>
+      <description>VCS-(Version Control System) Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+Many people’s version-control method of choice is to copy files into another directory (perhaps a time-stamped directory, if they’re clever). This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget which directory you’re in and accidentally write to the wrong file or copy over files you don’t mean to.</description>
     </item>
     
   </channel>
