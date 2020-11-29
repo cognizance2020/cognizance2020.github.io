@@ -22,13 +22,12 @@
     </item>
     
     <item>
-      <title>Sample Task</title>
-      <link>https://cognizance2020.github.io/post/sample_task/</link>
+      <title>Git Setup</title>
+      <link>https://cognizance2020.github.io/post/git_setup/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cognizance2020.github.io/post/sample_task/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh.</description>
+      <guid>https://cognizance2020.github.io/post/git_setup/</guid>
+      <description>Git simplifies the process of working with other people and makes it easy to collaborate on projects. Team members can work on files and easily merge their changes in with the master branch of the project. GitHub is an open-source repository hosting service, sort of like a cloud for code. It hosts your source code projects in a variety of different programming languages and keeps track of the various changes made to every iteration.</description>
     </item>
     
   </channel>
