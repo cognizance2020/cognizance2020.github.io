@@ -30,5 +30,15 @@
       <description>Git simplifies the process of working with other people and makes it easy to collaborate on projects. Team members can work on files and easily merge their changes in with the master branch of the project. GitHub is an open-source repository hosting service, sort of like a cloud for code. It hosts your source code projects in a variety of different programming languages and keeps track of the various changes made to every iteration.</description>
     </item>
     
+    <item>
+      <title>Version Control System</title>
+      <link>https://cognizance2020.github.io/post/version_control_system/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/version_control_system/</guid>
+      <description>VCS-(Version Control System) Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+Many people’s version-control method of choice is to copy files into another directory (perhaps a time-stamped directory, if they’re clever). This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget which directory you’re in and accidentally write to the wrong file or copy over files you don’t mean to.</description>
+    </item>
+    
   </channel>
 </rss>
