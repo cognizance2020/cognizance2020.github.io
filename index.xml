@@ -22,6 +22,17 @@
     </item>
     
     <item>
+      <title>Git operations</title>
+      <link>https://cognizance2020.github.io/post/git_operation/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/git_operation/</guid>
+      <description>To use Git, developers use specific commands to copy, create, change, and combine code. These commands can be executed directly from the command line or by using an application like GitHub Desktop or Git Kraken.
+Basic Operations  The following is a summary of basic git operations:
+ git add Puts current working files into the stage.  git checkout Replaces the current working files with files from a branch.</description>
+    </item>
+    
+    <item>
       <title>Git Setup</title>
       <link>https://cognizance2020.github.io/post/git_setup/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
@@ -48,7 +59,8 @@
       <description>Commencement of tasks Begins on &amp;gt; 30-11-2020 12:00:00 AM
 You can start doing your tasks from now   Git Setup Deadline &amp;gt; 30-11-2020 11:59:59 PM
 &amp;gt; Complete Git development environment   Version Control System Deadline &amp;gt; 02-12-2020 11:59:59 PM
-&amp;gt; Local setup of Version Control System   </description>
+&amp;gt; Local setup of Version Control System   Operations on Git Deadline &amp;gt; 04-12-2020 11:59:59 PM
+&amp;gt; Getting familiar with Git operations like pull, push, commit, merge, rebase, fork etc.</description>
     </item>
     
     <item>

@@ -22,6 +22,17 @@
     </item>
     
     <item>
+      <title>Git operations</title>
+      <link>https://cognizance2020.github.io/post/git_operation/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/git_operation/</guid>
+      <description>To use Git, developers use specific commands to copy, create, change, and combine code. These commands can be executed directly from the command line or by using an application like GitHub Desktop or Git Kraken.
+Basic Operations  The following is a summary of basic git operations:
+ git add Puts current working files into the stage.  git checkout Replaces the current working files with files from a branch.</description>
+    </item>
+    
+    <item>
       <title>Git Setup</title>
       <link>https://cognizance2020.github.io/post/git_setup/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
