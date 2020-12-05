@@ -42,6 +42,17 @@ Basic Operations  The following is a summary of basic git operations:
     </item>
     
     <item>
+      <title>Markdown Language</title>
+      <link>https://cognizance2020.github.io/post/markdown/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/markdown/</guid>
+      <description>What is Markdown Language?  Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+ How do I use Markdown language?  1.Create a Markdown file using a text editor or a dedicated Markdown application.
+  2.Open the Markdown file in a Markdown application.</description>
+    </item>
+    
+    <item>
       <title>Version Control System</title>
       <link>https://cognizance2020.github.io/post/version_control_system/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
