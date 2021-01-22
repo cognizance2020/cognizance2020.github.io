@@ -1,1 +1,1 @@
-# Task page for Cognizance 2020
+# Task page for Cognizance
